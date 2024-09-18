@@ -6,7 +6,7 @@ Joseph Stuart Valverde Kong (C18100)
 
 joseph.valverdekong@ucr.ac.cr 
 
-Este repositorio se puede encontrar en: 
+Este repositorio se puede encontrar en: https://github.com/joseph97svk/Compiladores-Tarea_Hopcroft.git
 
 ## Manual de uso
 
